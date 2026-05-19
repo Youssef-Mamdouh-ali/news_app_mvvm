@@ -3,36 +3,25 @@
 A modern Flutter News Application built using MVVM Architecture.
 
 ---
-
-
-
 ## 📸 Screenshots
 
-### Home Screen
-![Splash](screenshots/splash.png)
+<p align="center">
+  <img src="screenshots/splash.png" width="220"/>
+  <img src="screenshots/home.png" width="220"/>
+  <img src="screenshots/drawer.png" width="220"/>
+</p>
 
-### Home Screen
-![Home](screenshots/home.png)
-
-### Home Screen
-![Drawer](screenshots/drawer.png)
-
-### Search Screen
-![Search](screenshots/search.png)
-
-### Details Screen
-![News](screenshots/news.png)
+<p align="center">
+  <img src="screenshots/search.png" width="220"/>
+  <img src="screenshots/news.png" width="220"/>
+</p>
 
 ---
 
 ## ✨ Features
 
-- Latest News Headlines
-- Search News Articles
-- Dark Mode
-- REST API Integration
-- Clean UI
-
-## 👨‍💻 Author
-
-Youssef Mamdouh
+- 📰 Latest News Headlines
+- 🔍 Search News Articles
+- 🌙 Dark Mode
+- 🌐 REST API Integration
+- 🎨 Clean UI
