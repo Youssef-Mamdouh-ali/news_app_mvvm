@@ -221,7 +221,7 @@ class _CustomDrawerState extends State<CustomDrawer> {
                 const EdgeInsets.symmetric(horizontal: 18, vertical: 16),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(18),
-              color: Colors.white..withValues(alpha: 0.06),
+              color: Colors.white.withValues(alpha: 0.06),
             ),
             child: Row(
               children: [
